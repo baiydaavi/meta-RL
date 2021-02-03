@@ -22,3 +22,6 @@ In this project, we will implement all the cognitive tasks that were implemented
 ## Contributing
 
 ## Contact
+
+Email: aavinash@ucdavis.edu
+Linkedin: http://www.linkedin.com/in/baidyaavinash
