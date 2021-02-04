@@ -19,6 +19,18 @@ In this project, we will implement all the cognitive tasks that were implemented
 
 ## Reading
 
+Refer to the resources provided below to better your understanding of meta-RL algorithm and its implementation. 
+
+1. https://www.nature.com/articles/s41593-018-0147-8
+
+2. https://arxiv.org/abs/1611.05763
+
+3. https://arxiv.org/abs/1611.02779
+
+4. https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html
+
+5. https://www.youtube.com/watch?v=LnXgs73OUjE
+
 ## Contributing
 
 ## Contact
