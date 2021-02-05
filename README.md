@@ -4,7 +4,7 @@ This repository implements the meta-reinforcement learning algorithm for a varie
 
 ## Table of contents
 * [Introduction](#introduction)
-* [Usage](#usage)
+* [Repository Structure](#repository-structure)
 * [Reading](#reading)
 * [Contributing](#contributing)
 * [Contact](#contact)
@@ -15,7 +15,8 @@ Meta-reinforcement learning(meta-RL) simply put is a method that learns to perfo
 
 In this project, we will implement all the cognitive tasks that were implemented in the [Wang et al. 2018](https://www.nature.com/articles/s41593-018-0147-8) paper using Tensorflow 2. We will also implement and analyse a different version of the two-armed bandit task where the reward and action are by a fixed delay period using two separate network architectures.
 
-## Usage
+## Repository Structure
+
 
 ## Reading
 
