@@ -17,6 +17,16 @@ In this project, we will implement all the cognitive tasks that were implemented
 
 ## Repository Structure
 
+Here is what each file or folder in the repository contains:
+
+Folder:
+
+1. Training - This folder contains the training data for the various cognitive tasks. This folder is divided further into folders named based on which task the training datas belong to.
+
+Files:
+
+1. bandit_train.ipynb - This file implements the training part of the meta-RL model for the bandit 
+task.
 
 ## Reading
 
